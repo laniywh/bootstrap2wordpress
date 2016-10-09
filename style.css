@@ -190,7 +190,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	max-width: 100%;
 }
 
-.search-submit {
+.search-form .search-submit {
   display: none;
 }
 
