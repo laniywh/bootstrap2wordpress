@@ -13,4 +13,7 @@ Certificate of completion: https://www.udemy.com/certificate/UC-L9WGVDZB/
 - When editing a page, use custom fields provided to modify dynamic information of the template
 - Use sprite for social icons
 
+## How to Install
+1. Download all files as a `.zip` file
+2. Upload and install it in your WordPress dashboard.
 
