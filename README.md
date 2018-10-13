@@ -4,7 +4,7 @@ A WordPress theme made for an online course, [WordPress Theme Development with B
 
 Certificate of completion: https://www.udemy.com/certificate/UC-L9WGVDZB/
 
-[Demo](http://b2w.lanihuang.com/)
+[Demo](https://wp.lanihuang.com/b2w)
 
 ##Theme Features
 - Responsive design using Bootstrap
